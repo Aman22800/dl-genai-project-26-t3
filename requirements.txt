@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+opencv-python-headless
+scikit-learn
+torch
+torchvision
+albumentations
+segmentation-models-pytorch
+wandb
+tqdm
